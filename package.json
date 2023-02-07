@@ -1,0 +1,15 @@
+{
+  "name": "theendpointdb",
+  "version": "1.0.0",
+  "description": "Json server to serve multiple files to our endpoint project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch ./apis/index.js --port 8080"
+  },
+  "devDependencies": {
+  	"json-server": "^0.17.1"
+  },
+  "author": "Antony Oduor",
+  "license": "ISC"
+}

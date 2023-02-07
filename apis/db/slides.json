@@ -1,0 +1,33 @@
+{
+	"slides": [
+					{
+						"active": true,
+						"heading": "High school",
+						"content": "A proud alumni of the only school in Kenya",
+						"view": "Learn More"
+					},
+					{
+						"active": false,
+						"heading": "Afterlife",
+						"content": "A proud self-made millionaire",
+						"view": "Learn More"
+					},
+					{
+						"active": false,
+						"heading": "In the end",
+						"content": "A proud self-made genius",
+						"view": "Learn More"
+					},
+					{
+						"active": false,
+						"heading": "Humanity",
+						"content": "Advanced research in GP significantly",
+						"view": "Learn More"
+					}
+		],
+		"meta": {
+			"description": "Hero carousel slides",
+			"totalCount": 4,
+			"limit": 10
+		}
+}

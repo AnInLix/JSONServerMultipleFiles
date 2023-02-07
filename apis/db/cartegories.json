@@ -1,0 +1,30 @@
+{
+	"cartegories": [
+		{
+			"mainHeading": "Lixir",
+			"attention": "You are about to be amazed",
+			"lead": "Brought to you courtesy of Lixir.inc",
+			"title": "Anthony Oduor",
+			"text": "500x500"
+		},
+		{
+			"mainHeading": "Another Cool One",
+			"attention": "It will literary blow your ...",
+			"lead": "Hello there, this is an excellent site from lixir.inc",
+			"title": "Coolness Redifined",
+			"text": "500x500"
+		},
+		{
+			"mainHeading": "A shout out",
+			"attention": "To everyone that made this knowledge possible",
+			"lead": "I have had a great time even though at times I sounded crazy with my dreams. I am finally able to scream",
+			"title": "I Made It",
+			"text": "500x500"
+		}
+	],
+	"meta": {
+		"description": "Features cartegories",
+		"totalCount": 3,
+		"limit": 10
+	}
+}

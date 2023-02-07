@@ -1,0 +1,33 @@
+{
+	"buttons": [
+					{
+						"slideTo": "0",
+						"hasClass": true,
+						"label": "Slide 1",
+						"isCurrent": true
+					},
+					{
+						"slideTo": "1",
+						"hasClass": false,
+						"label": "Slide 2",
+						"isCurrent": false
+					},
+					{
+						"slideTo": "2",
+						"hasClass": false,
+						"label": "Slide 3",
+						"isCurrent": false
+					},
+					{
+						"slideTo": "3",
+						"hasClass": false,
+						"label": "Slide 4",
+						"isCurrent": false
+					}
+			],
+	"meta": {
+		"description": "Hero carousel buttons",
+		"totalCount": 4,
+		"limit": 10
+	}
+}
